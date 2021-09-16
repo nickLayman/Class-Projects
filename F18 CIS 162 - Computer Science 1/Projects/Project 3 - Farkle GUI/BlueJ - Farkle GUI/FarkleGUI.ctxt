@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FarkleGUI
+comment0.text=\r\n\ GUI\ for\ Farkle\ game\r\n\r\n\ @author\ Nick\ Layman\r\n\ @version\ 11/5/2018\r\n
+comment1.params=
+comment1.target=FarkleGUI()
+comment1.text=\r\n\ Constructor\ creates\ the\ main\ layout\ for\ the\ GUI\r\n
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Process\ each\ button\ click\ or\ menu\ selection\r\n
+comment3.params=
+comment3.target=void\ setupMenu()
+comment3.text=\r\n\ Setup\ the\ file\ menu\ with\ three\ options\:\ \r\n\ new\ game,\ best\ score,\ and\ quit\r\n
+comment4.params=
+comment4.target=void\ newGame()
+comment4.text=\r\n\ helper\ method\ to\ start\ a\ new\ game\r\n\ resets\ all\ player's\ scores,\ subtotals,\ and\ turns\ to\ 0\ and\r\n\ resets\ the\ game\ from\ theGame\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ This\ is\ a\ standard\ main\ method\ that\ creates\ and\ displays\r\n\ the\ GUI.\r\n
+numComments=6

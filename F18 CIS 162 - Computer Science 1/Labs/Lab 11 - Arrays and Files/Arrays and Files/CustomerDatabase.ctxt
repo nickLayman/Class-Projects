@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CustomerDatabase
+comment1.params=
+comment1.target=CustomerDatabase()
+comment2.params=firstName\ lastName
+comment2.target=Customer\ findCustomer(java.lang.String,\ java.lang.String)
+comment3.params=domain
+comment3.target=java.util.ArrayList\ findCustomersWithSameEmailDomain(java.lang.String)
+comment4.params=
+comment4.target=java.util.ArrayList\ getDB()
+comment5.params=
+comment5.target=int\ getNumberCustomers()
+comment6.params=filename
+comment6.target=void\ readCustomerData(java.lang.String)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

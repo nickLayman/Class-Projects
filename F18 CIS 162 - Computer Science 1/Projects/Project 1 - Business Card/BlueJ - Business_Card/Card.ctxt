@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Making\ a\ business\ card.\r\n\r\n\ @author\ (Nick\ Layman)\r\n\ @version\ (9/14/2018)\r\n
+comment1.params=a
+comment1.target=void\ main(java.lang.String[])
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3

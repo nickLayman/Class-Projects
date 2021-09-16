@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Dice
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dice\ here.\r\n\r\n\ @author\ Nick\ Layman\r\n\ @version\ 10/30/2018\r\n
+comment1.params=num
+comment1.target=Dice(int)
+comment2.params=
+comment2.target=void\ roll()
+comment3.params=
+comment3.target=java.util.ArrayList\ getDice()
+comment4.params=
+comment4.target=int\ getTotal()
+comment5.params=val
+comment5.target=int\ getCount(int)
+numComments=6

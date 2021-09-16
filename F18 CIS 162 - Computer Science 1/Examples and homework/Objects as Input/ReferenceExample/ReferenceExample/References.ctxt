@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=References
+comment0.text=\r\n\ Example\ of\ parameter\ passing\ \r\n\ \r\n\ @author\ CIS-162\r\n\ @version\ November\ 2013\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=first\ second
+comment2.target=void\ task1(int,\ Num)
+comment2.text=\r\n\ task1\r\n\ @param\ int\ first\ (primitive\ data\ type)\r\n\ @param\ Num\ second\ (ref\ to\ an\ object)\r\n
+comment3.params=first\ second
+comment3.target=void\ task1(int,\ int)
+comment3.text=\r\n\ task1\r\n\ @param\ int\ first\ (primitive\ data\ type)\r\n\ @param\ int\ second\ (primitive\ data\ type)\r\n
+numComments=4

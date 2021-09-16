@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ Maintains\ information\ about\ a\ customer\r\n\ first\ name,\ last\ name,\ and\ email\r\n\r\n\ @author\ Nick\ Layman\r\n\ @version\ 11/6/2018\r\n
+comment1.params=pFirst\ pLast\ pEmail
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFirst()
+comment3.params=pFirst
+comment3.target=void\ setFirst(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getLast()
+comment5.params=pLast
+comment5.target=void\ setLast(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getEmail()
+comment7.params=pEmail
+comment7.target=void\ setEmail(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

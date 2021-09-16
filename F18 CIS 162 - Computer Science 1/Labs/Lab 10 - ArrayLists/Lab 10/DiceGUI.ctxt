@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DiceGUI
+comment0.text=\r\n\ GUI\ for\ rolling\ dice\r\n\ \r\n\ @author\ Larry\ Kotman\ \r\n\ @version\ Februrary\ 14,\ 2015\r\n\ @updated\ April\ 2016\ -\ to\ add\ functionality\ to\ use\ tally.\r\n
+comment1.params=
+comment1.target=DiceGUI()
+comment1.text=\r\n\ DiceGUI\ constructor\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ \ \ \ Respond\ to\ the\ user\ action\ from\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Create\ the\ GUI,\ for\ an\ event\ driven\ application\ \r\n
+numComments=4

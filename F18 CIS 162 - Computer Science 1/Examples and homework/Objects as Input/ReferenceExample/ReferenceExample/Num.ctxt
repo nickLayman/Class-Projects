@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Num
+comment0.text=\r\n\ Class\ Num\ -\ used\ to\ explain\ objects\ as\r\n\ input\ parameters\r\n\ \r\n\ @author\ Ana\ Posada\r\n\ @version\ November\ 2013\r\n
+comment1.params=n
+comment1.target=Num(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Num\r\n\ @param\ int\ n\r\n
+comment2.params=
+comment2.target=int\ getNum()
+comment2.text=\r\n\ getNum\r\n\ @return\ returns\ the\ value\ of\ n\r\n
+comment3.params=n
+comment3.target=void\ setNum(int)
+comment3.text=\r\n\ setNum\r\n\ @param\ n\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

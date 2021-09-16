@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TaxForm
+comment0.text=\r\n\ Calculates\ U.S.\ federal\ income\ tax\ given\ specific\ information\r\n\r\n\ @author\ Nick\ Layman\r\n\ @version\ 10/9/2018\r\n
+comment1.params=
+comment1.target=void\ estimateTaxes()
+comment1.text=\r\n\ Prompts\ user\ for\ information\ and\ displays\ adjusted\ gross\ \r\n\ income,\ taxable\ income,\ federal\ tax,\ refund,\ and\ amount\ due\r\n
+numComments=2
